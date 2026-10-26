@@ -13,6 +13,7 @@ You may create a pull request if you would like to link your shaderpack here.
 |:---:|:---:|:---:|
 | Vanilla PT | [Ljiong201108](https://github.com/Ljiong201108) | [GitHub](https://github.com/Minecraft-Radiance/Shaderpack-Vanilla-PT) |
 | Advanced | [Ljiong201108](https://github.com/Ljiong201108) | [GitHub](https://github.com/Minecraft-Radiance/Shaderpack-Advanced) |
+| Chromance-VKPT | [Akiraoo](https://github.com/Akiraoo) | [GitHub](https://github.com/Akiraoo/Chromance-VKPT) |
 | ... | ... | ... |
 
 
